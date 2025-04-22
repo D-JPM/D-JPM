@@ -1,0 +1,21 @@
+# [Declan JP Metcalfe]
+
+## Logistics Professional Exploring Software Development
+
+Currently learning backend development at [Boot.dev](https://boot.dev). 
+
+### Technical Skills
+- **Languages:** Python
+- **Editors/IDEs:** Neovim, VSCode, Nano
+- **Operating Systems:** Ubuntu Linux, Windows
+- **Command Line:** Bash
+
+### Current Focus
+Building practical applications that bridge the gap between logistics operations and data analysis. Particularly interested in developing tools that can streamline logistics workflows and provide actionable insights.
+
+### Learning Goals
+- Achieve backend development competency
+- Explore web development frameworks
+- Develop data analytical tools for logistics
+- Experiment with game development concepts
+
