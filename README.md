@@ -1,4 +1,4 @@
-# [Declan JP Metcalfe]
+# Declan JP Metcalfe
 
 ## Logistics Professional Exploring Software Development
 
