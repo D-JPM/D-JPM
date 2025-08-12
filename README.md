@@ -17,7 +17,8 @@ Building practical applications that bridge the gap between logistics operations
 - Achieve backend development competency
 - Explore web development frameworks
 - Develop data analytical tools for logistics
-- Experiment with game development concepts
+- Develop foundational cybersecurity skills
+- Learn secure coding and web application defens
 
 ### Projects
 
@@ -27,4 +28,4 @@ Building practical applications that bridge the gap between logistics operations
 
 #### Personal Projects
 - [Text-Cell-Analyzer](https://github.com/D-JPM/Text-Cell-Analyzer) -  - Tool for analyzing text data in a cell-based format (useful for logistics data processing) [In Progress]
-- [video-log-overlay](https://github.com/D-JPM/video-log-overlay) - Personal experiment: A tool to embed timestamp and log data into video recordings for personal documentation and learning reflections [In progress]
+
