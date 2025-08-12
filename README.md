@@ -16,9 +16,10 @@ Building practical applications that bridge the gap between logistics operations
 ### Learning Goals
 - Achieve backend development competency
 - Explore web development frameworks
-- Develop data analytical tools for logistics
+- Develop robust data analytical tools using Python
+- Build expertise in Pandas and Openpyxl for data analysis and Excel automation
 - Develop foundational cybersecurity skills
-- Learn secure coding and web application defens
+- Learn secure coding and web application defense practcies
 
 ### Projects
 
