@@ -27,6 +27,5 @@ Building practical applications that bridge the gap between operations and data 
 - [Boot.dev-Coursework](https://github.com/D-JPM/Boot.dev-Coursework) - Collection of exercises and projects completed during my backend development studies at Boot.dev
 - [Python-Learning-Lab](https://github.com/D-JPM/Python-Learning-Lab) - My Python learning journey with exercises and small projects
 
-#### Personal Projects
-- [Text-Cell-Analyzer](https://github.com/D-JPM/Text-Cell-Analyzer) -  - Tool for analyzing text data in a cell-based format (useful for logistics data processing) [In Progress]
+
 
