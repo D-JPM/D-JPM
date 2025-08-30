@@ -1,6 +1,6 @@
 # Declan JP Metcalfe
 
-## Logistics Professional Exploring Software Development
+## Operations Assisstant Professional Exploring Software Development
 
 Currently learning backend development at [Boot.dev](https://boot.dev). 
 
@@ -11,7 +11,7 @@ Currently learning backend development at [Boot.dev](https://boot.dev).
 - **Command Line:** Bash
 
 ### Current Focus
-Building practical applications that bridge the gap between logistics operations and data analysis. Particularly interested in developing tools that can streamline logistics workflows and provide actionable insights.
+Building practical applications that bridge the gap between operations and data analysis. Particularly interested in developing tools that can streamline logistics workflows and provide actionable insights.
 
 ### Learning Goals
 - Achieve backend development competency
