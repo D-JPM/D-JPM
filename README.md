@@ -4,6 +4,10 @@
 
 Currently learning backend development at [Boot.dev](https://boot.dev). 
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/701a19e6-ab52-4d34-baff-b5592beebed7/thumbnail" >
+</p>
+
 ### Technical Skills
 - **Languages:** Python
 - **Editors/IDEs:** Neovim, VSCode, Nano
