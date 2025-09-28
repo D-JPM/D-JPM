@@ -4,26 +4,23 @@
 
 Currently learning backend development at [Boot.dev](https://boot.dev). 
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/701a19e6-ab52-4d34-baff-b5592beebed7/thumbnail" >
-</p>
-
 ### Technical Skills
 - **Languages:** Python
 - **Editors/IDEs:** Neovim, VSCode, Nano
-- **Operating Systems:** Ubuntu Linux, Windows
+- **Operating Systems:** Linux, (unfortunately) Windows
 - **Command Line:** Bash
 
 ### Current Focus
-Building practical applications that bridge the gap between operations and data analysis. Particularly interested in developing tools that can streamline logistics workflows and provide actionable insights.
+Backend development. Deep-diving into Python's ecosystem, completing the Boot.dev curriculum exploring other Linux distros & dotfiles customisation.
 
-### Learning Goals
+### Goals
 - Achieve backend development competency
 - Explore web development frameworks
 - Develop robust data analytical tools using Python
 - Build expertise in Pandas and Openpyxl for data analysis and Excel automation
-- Develop foundational cybersecurity skills
+- Curate my own config for a Linux distro
 - Learn secure coding and web application defense practcies
+- Run away from Windows
 
 ### Projects
 
