@@ -19,7 +19,7 @@ Backend development. Deep-diving into Python's ecosystem, completing the Boot.de
 - Develop robust data analytical tools using Python
 - Build expertise in Pandas and Openpyxl for data analysis and Excel automation
 - Curate my own config for a Linux distro
-- Learn secure coding and web application defense practcies
+- Learn secure coding and web application defense practices
 - Run away from Windows
 
 ### Projects
